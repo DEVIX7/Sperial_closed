@@ -2,6 +2,6 @@
 # Read Eula
 Sperial this is a utility for roblox on.
 
-***Logs update 08.08.2022***
-+ Update API
-+ New UI
+***Logs update 06.09.2022***
++ Interface fix
++ DLL changes
